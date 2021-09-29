@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.exe
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.deps.json
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.runtimeconfig.json
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.dll
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\bin\Debug\netcoreapp3.1\EmployeeWageUC3.pdb
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.dll
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.pdb
+C:\Users\INDIA\source\repos\EmployeeWageUC3\EmployeeWageUC3\obj\Debug\netcoreapp3.1\EmployeeWageUC3.genruntimeconfig.cache
