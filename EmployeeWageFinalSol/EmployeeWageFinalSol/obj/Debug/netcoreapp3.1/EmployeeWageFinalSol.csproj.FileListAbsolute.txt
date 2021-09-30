@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.exe
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.deps.json
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.runtimeconfig.json
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.dll
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\bin\Debug\netcoreapp3.1\EmployeeWageFinalSol.pdb
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.dll
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.pdb
+C:\Users\INDIA\source\repos\EmployeeWageFinalSol\EmployeeWageFinalSol\obj\Debug\netcoreapp3.1\EmployeeWageFinalSol.genruntimeconfig.cache
